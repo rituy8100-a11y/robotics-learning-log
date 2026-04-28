@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+robot-env/
+*.egg-info/
+.ipynb_checkpoints/
+build/
+install/
+log/
+.vscode/
